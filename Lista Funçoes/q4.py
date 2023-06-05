@@ -1,3 +1,4 @@
+#Questão 5 lista para praticar
 def converter(horas, minutos):
     if horas == 0:
         h2 = 12
